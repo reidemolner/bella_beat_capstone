@@ -2,10 +2,10 @@
 
 **Case Study: How Can a Wellness Technology Company Play It Smart?**
 
-For this case study I am following the 6 steps of the data analysis process: Ask, Prepare, Process, Analyze, Share and Act.
+For this case study I am following the 6 steps of the data analysis process: **Ask, Prepare, Process, Analyze, Share and Act.**
 
 
-Background: Bellabeat is a tech-driven female wellness company that specializes in the manufacturing of health focused smart products including Bellabeat app, leaf, spring, and the bellabeat subscription membership. Since its founding in 2013 the company has steadily grown into a world wide entity in the fitness tracking industry for women, but they have the potential to become an even larger player in the global market. Bellabeat has invested the majority of their resources into digital marketing, including Google and social media. 
+**Background:** Bellabeat is a tech-driven female wellness company that specializes in the manufacturing of health focused smart products including Bellabeat app, leaf, spring, and the bellabeat subscription membership. Since its founding in 2013 the company has steadily grown into a world wide entity in the fitness tracking industry for women, but they have the potential to become an even larger player in the global market. Bellabeat has invested the majority of their resources into digital marketing, including Google and social media. 
 
 **1. Ask** :turtle:
 
@@ -41,7 +41,7 @@ Cited: Although the data is cited it is collected from unknown sources which may
 
 ***3. Process*** :muscle:
 
-When I initially began the project I was exclusively using SQL and Excel in order to clean and organize the data. After some struggle it became obvious that I would need to go another route in order to best visualize the data. Although the Google Data Analyst Certification Course uses R, I found it extremely difficult to use, so I learned Python instead. 
+When I initially began the project I was exclusively using SQL and Excel in order to clean and organize the data. After some struggle it became obvious that I would need to go another route in order to best visualize the data. Although the Google Data Analyst Certification Course uses R, I found it extremely difficult to use, so I learned Python instead and used that to analyze the data.
 
 **Below is a link to the Python code used** 
 
@@ -49,6 +49,9 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 
 
 
+
+
+***4. Analyze*** 📰:
 
 
 ![download](https://user-images.githubusercontent.com/125325076/231813661-39dac2a6-8c9c-4045-b75a-9ddbd0aba27f.png)
