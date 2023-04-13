@@ -39,7 +39,7 @@ Current: The data is from April 2016 to May 2016. Although the data is 7 years o
 
 Cited: Although the data is cited it is collected from unknown sources which may be unreliable.
 
-***3. Process*** :muscle:
+***3/4. Process, and Analyze 🦒: :muscle:
 
 When I initially began the project I was exclusively using SQL and Excel in order to clean and organize the data. After some struggle it became obvious that I would need to go another route in order to best visualize the data. Although the Google Data Analyst Certification Course uses R, I found it extremely difficult to use, so I learned Python instead and used that to analyze the data.
 
@@ -48,10 +48,7 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 + https://github.com/reidemolner/bella_beat_capstone/blob/main/bella_beat_final-Copy1.ipynb
 
 
-
-
-
-***4. Analyze*** 📰:
+***5. Share*** 📰:
 
 
 ![download](https://user-images.githubusercontent.com/125325076/231813661-39dac2a6-8c9c-4045-b75a-9ddbd0aba27f.png)
@@ -95,5 +92,5 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 
 + **There is a slight positive correlation between hours logged and calories burned. It is not as significant as the previous two graphs, but it does signifiy that there is evidence that generally speaking the more time you spend engaged with a fitness app, the more calories you will burn as a result.** 
 
-
+***6. Act*** 🥇:
 
