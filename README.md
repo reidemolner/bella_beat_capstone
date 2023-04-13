@@ -93,7 +93,7 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 
 ![download](https://user-images.githubusercontent.com/125325076/231813899-213c98ff-db4a-4e80-a6f9-4b93a69c1bdc.png)
 
-+ **There is a slight positive correlation between hours logged and calories burned. It is not as significant as the previous two graphs, but it does signifiy that there is evidence that generally speaking the more time you spend engaged with a fitness app, the more calories you will burn as a result. 
++ **There is a slight positive correlation between hours logged and calories burned. It is not as significant as the previous two graphs, but it does signifiy that there is evidence that generally speaking the more time you spend engaged with a fitness app, the more calories you will burn as a result.** 
 
 
 
