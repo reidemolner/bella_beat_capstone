@@ -98,7 +98,7 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 
 + **Peole tend to track more data during the middle of the work week from Tuesday through Thursday. This could be due to forgetting over the weekend, or simply wanting to "let loose" after focusing on their health more during the weekdays. Monday is also slightly lower which may suggest that people are just doing their best getting back to work for the week.**
 
-**Our Participants spent 81.3% of their time sedentary which is quadruple more than the other 3 combined.
+**Our Participants spent 81.3% of their time sedentary which is quadruple more than the other 3 combined.**
 
 There is a relatively strong positive correlation between engagement with the fitness app and calories burned.  
 
