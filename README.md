@@ -90,7 +90,23 @@ When I initially began the project I was exclusively using SQL and Excel in orde
 
 ![download](https://user-images.githubusercontent.com/125325076/231813899-213c98ff-db4a-4e80-a6f9-4b93a69c1bdc.png)
 
-+ **There is a slight positive correlation between hours logged and calories burned. It is not as significant as the previous two graphs, but it does signifiy that there is evidence that generally speaking the more time you spend engaged with a fitness app, the more calories you will burn as a result.** 
++ **There is a positive correlation between hours logged and calories burned. It is not as significant as the previous two graphs, but it does signifiy that there is evidence that generally speaking the more time you spend engaged with a fitness app, the more calories you will burn as a result.** 
 
 ***6. Act*** :1st_place_medal:
+
+**Insights and trends analyzed**
+
++ **Peole tend to track more data during the middle of the work week from Tuesday through Thursday. This could be due to forgetting over the weekend, or simply wanting to "let loose" after focusing on their health more during the weekdays. Monday is also slightly lower which may suggest that people are just doing their best getting back to work for the week.**
+
+**Our Participants spent 81.3% of their time sedentary which is quadruple more than the other 3 combined.
+
+There is a relatively strong positive correlation between engagement with the fitness app and calories burned.  
+
+**How does this apply to Bellabeat customers?**
+
++ **Although fitbit data was being dissected, the insights and trends analyzed are directly applicable towards the bellabeat app.**
+
+**How can this influence Bellabeat's marketing strategy going forward?**
+
++ **Bellabeat could try and implement some sort of buzzing or sound notification that reminds the wearer of their product to stand up and move around. They would also benefit from having the app be more interactive with a user if they are not logging in to track their data. If possible, Bellabeat should track patterns of behavior for each individual user and show them a graphic of their behavior. For example if a user has not been engaging with their app on the weekends, they could receive a notification with a visual that shows how they are not putting in the same amount of effort as they are during the week. There could also be some sort of incentive program built in for users that consistently engage with their app on a regular basis, perhaps Bellabeat could provide discounts on some of their other apparel and gear to show that they appreciate their diehard customers.**
 
