@@ -41,40 +41,50 @@ Cited: Although the data is cited it is collected from unknown sources which may
 
 ***3. Process*** :muscle:
 
+When I initially began the project I was exclusively using SQL and Excel in order to clean and organize the data. After some struggle it became obvious that I would need to go another route in order to best visualize the data. Although the Google Data Analyst Certification Course uses R, I found it extremely difficult to use, so I learned Python instead. 
+
+**Below is a link to the Python code used** 
+
++ https://github.com/reidemolner/bella_beat_capstone/blob/main/bella_beat_final-Copy1.ipynb
+
+
+
+
+
 ![download](https://user-images.githubusercontent.com/125325076/231813661-39dac2a6-8c9c-4045-b75a-9ddbd0aba27f.png)
 
-**As you can see the vast majority of time spent by users was sedentary, making up 81.3%.**
++ **As you can see the vast majority of time spent by users was sedentary, making up 81.3%.**
 
-**Lightly active minutes makes up the second highest at 15.8%.**
++ **Lightly active minutes makes up the second highest at 15.8%.**
 
-**Fairly active and Very active make up 1.1% and 1.7% respectively, combining for under 3% of total time spent.**
++ **Fairly active and Very active make up 1.1% and 1.7% respectively, combining for under 3% of total time spent.**
 
-**This more than likely means that we are dealing with a group of people that are working most of their waking time and are unable to move around while at work, walking a minimal amount at work or around the house, and leaving very little time for meaningful exercise. For a group of people that are focusing on their health by using a fitness tracking app, this is a sign that most aren't able to put their fitness needs above or before their work.**
++ **This more than likely means that we are dealing with a group of people that are working most of their waking time and are unable to move around while at work, walking a minimal amount at work or around the house, and leaving very little time for meaningful exercise. For a group of people that are focusing on their health by using a fitness tracking app, this is a sign that most aren't able to put their fitness needs above or before their work.**
 
 
 ![download](https://user-images.githubusercontent.com/125325076/231813937-ad9e1089-a217-4579-b26c-e429bcfb4ad4.png)
 
-**This graph shows how frequently our participants logged into their app, sorted by the day of the week.** 
++ **This graph shows how frequently our participants logged into their app, sorted by the day of the week.** 
 
-**Participants generally logged on the same amount throughout the week with the exception of increased turnout during the middle of the work week from Tuesday to Thursday, with Tuesday being the highest. One theory could be that people are trying to provide themselves with motivation to get through the week by practicing good habit implementation, however the behavior drops off as the weekend gets closer.**  
++ **Participants generally logged on the same amount throughout the week with the exception of increased turnout during the middle of the work week from Tuesday to Thursday, with Tuesday being the highest. One theory could be that people are trying to provide themselves with motivation to get through the week by practicing good habit implementation, however the behavior drops off as the weekend gets closer.**  
 
 
 ![download](https://user-images.githubusercontent.com/125325076/231813738-74aba1ab-ff11-41c0-811c-636092fb9c74.png)
 
-**This graph is self explanatory and confirms our preconceived ideas that the more steps someone takes, the further distance they will travel. There could be some variation due to different participants stride length, however the data set doesn't provide that information.**
++ **This graph is self explanatory and confirms our preconceived ideas that the more steps someone takes, the further distance they will travel. There could be some variation due to different participants stride length, however the data set doesn't provide that information.**
 
 
 
 
 ![download](https://user-images.githubusercontent.com/125325076/231813862-88661173-0393-4552-b756-f5f709b73f60.png)
 
-**There is a positive correlation between calories burned, and steps taken.**
++ **There is a positive correlation between calories burned, and steps taken.**
 
-**The majority of users averaged between 0 - 15,000 steps, and burned 1,000 to 3,000 calories.**
++ **The majority of users averaged between 0 - 15,000 steps, and burned 1,000 to 3,000 calories.**
 
-**A significant number of people reported 0 steps taken which is more than likely inaccurate.**
++ **A significant number of people reported 0 steps taken which is more than likely inaccurate.**
 
-**The most notable outlier of the group is for someone that went over 35,000 steps in a single day, while burning less than 3,000 calories.**
++ **The most notable outlier of the group is for someone that went over 35,000 steps in a single day, while burning less than 3,000 calories.**
 
 
 
