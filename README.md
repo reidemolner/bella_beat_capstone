@@ -45,9 +45,9 @@ Cited: Although the data is cited it is collected from unknown sources which may
 
 **+ As you can see the vast majority of time spent by users was sedentary, making up 81.3%.**
 
-**+ Lightly active minutes makes up the second highest at 15.8%. **
+**+ Lightly active minutes makes up the second highest at 15.8%.**
 
-**+ Fairly active and Very active make up 1.1% and 1.7% respectively, combining for under 3% of total time spent.  **
+**+ Fairly active and Very active make up 1.1% and 1.7% respectively, combining for under 3% of total time spent.**
 
 **+ This more than likely means that we are dealing with a group of people that are working most of their waking time and are unable to move around while at work, walking a minimal amount at work or around the house, and leaving very little time for meaningful exercise. For a group of people that are focusing on their health by using a fitness tracking app, this is a sign that most aren't able to put their fitness needs above or before their work.**
 
