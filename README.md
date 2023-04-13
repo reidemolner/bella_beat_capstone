@@ -29,15 +29,15 @@ The dataset has 30 participant’s FitBit Fitness Tracker Data, comprising 18 CS
 
 **ROCCC: Is it good or bad data?**
 
-Reliability: The data is from 30 FitBit users that consented to submit their personal tracker data. Upon further review there are 33 unique IDs for the daily data sets, 24 for sleep data, and only 8 for the weight log data. The 33 sources of data is enough to meet the generally accepted threshold of 30 participants, however a sample size this small will not provide a highly informed analysis. 
+**Reliability:** The data is from 30 FitBit users that consented to submit their personal tracker data. Upon further review there are 33 unique IDs for the daily data sets, 24 for sleep data, and only 8 for the weight log data. The 33 sources of data is enough to meet the generally accepted threshold of 30 participants, however a sample size this small will not provide a highly informed analysis. 
 
-Original: Data collected from 3rd Party Amazon Mechanical Turk, data is not original.
+**Original:** Data collected from 3rd Party Amazon Mechanical Turk, data is not original.
 
-Comprehensive: The data includes the date, total steps taken, total distance covered, whether the time spent was sedentary, lightly active, fairly active, or very active, and how many calories were burned. There is also data covering sleep metrics, and a weight log. However, we don’t know anything else about the participants.
+**Comprehensive:** The data includes the date, total steps taken, total distance covered, whether the time spent was sedentary, lightly active, fairly active, or very active, and how many calories were burned. There is also data covering sleep metrics, and a weight log. However, we don’t know anything else about the participants.
 
-Current: The data is from April 2016 to May 2016. Although the data is 7 years old, it should represent a general theme amongst FitBit wearers that hasn’t changed with time. 
+**Current:** The data is from April 2016 to May 2016. Although the data is 7 years old, it should represent a general theme amongst FitBit wearers that hasn’t changed with time. 
 
-Cited: Although the data is cited it is collected from unknown sources which may be unreliable.
+**Cited:** Although the data is cited it is collected from unknown sources which may be unreliable.
 
 ***3 & 4. Process, & Analyze*** :giraffe: :muscle:
 
